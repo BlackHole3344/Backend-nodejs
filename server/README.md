@@ -1,4 +1,3 @@
-# Express Js With Typescript Starter KIT 🙌
 
 ## After cloning run the below command to run the project
 
